@@ -15,7 +15,7 @@ It's part of the "social layer" activity fostering political awareness among dev
 ## **ETHBerlin example**
 
 ![alt text](https://github.com/web3privacy/privacycases/blob/main/src/privacycases%20example.png?raw=true)
-[Bet&Bed case hacked at ETHBerlin](https://projects.ethberlin.org/submissions/337)
+[Bet&Bed case hacked at ETHBerlin](https://projects.ethberlin.org/submissions/337): [GitHub](https://github.com/grmkris/eth-berlin-2024)
 
 ## Test phase
 We will commit to aggregate local use-cases prior to two events:
