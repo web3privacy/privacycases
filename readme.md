@@ -1,9 +1,10 @@
 ## Privacy cases
 
-This is a research project aimed to bridge the gap between local privacy violations with events community is doing (meetups, summits, congresses & hackathons).
-It's a part of "social layer" activity fostering political awareness among developers, so they will tackle local & not just global issues.
+This is a research project aimed at bridging the gap between local privacy violations x events the community is doing (meetups, summits, congresses & hackathons).
 
-**Case scenario**: web3 hackathon landing in the new city; our goal - introduce local-specific privacy stories, so developers can try to solve them (censoprship resistance in Turkey, journalist leaks in Mexico, safe communication within occupied territories in Ukraine). 
+It's part of the "social layer" activity fostering political awareness among developers so that they will tackle local & not just global issues.
+
+**Case scenario**: web3 hackathon landing in the new city; our goal - introduce local-specific privacy stories, so developers can try to solve them (censorship resistance in Turkey, journalist leaks in Mexico, safe communication within occupied territories in Ukraine). 
 
 **Template for the data collection**
 
