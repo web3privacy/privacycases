@@ -11,7 +11,8 @@ It's a part of "social layer" activity fostering political awareness among devel
 | ------------- | ------------- |------------- |------------- | ------------- | 
 | Racial profiling while renting | "Berlin (and Germany in general) have a massive problem of racism in housing" | visual profiling | individuals | less renting opportunities, hostility & social disturbance | 
 
-**ETHBerlin example**
+## **ETHBerlin example**
+
 ![alt text](https://github.com/web3privacy/privacycases/blob/main/src/privacycases%20example.png?raw=true)
 
 ## Test phase
