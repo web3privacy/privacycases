@@ -1,4 +1,4 @@
-## Privacy cases
+## Local-first privacy cases
 
 This is a research project aimed at bridging the gap between local privacy violations x events the community is doing (meetups, summits, congresses & hackathons).
 
