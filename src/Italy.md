@@ -1,13 +1,11 @@
-# Italy privacy cases
+# Italy Privacy Issues - use cases x ETHRome developers
 
-This is a project aimed at bridging the gap between local privacy violations (censorship resistance in Turkey, journalist leaks in Mexico, safe communication within occupied territories in Ukraine) and software development at privacy hackathons.
+This project aims to bridge the gap between local privacy violations—such as censorship resistance in Turkey, journalist leaks in Mexico, and safe communication within occupied territories in Ukraine—and software development at privacy hackathons.
 
 It's part of the "social layer" activity fostering political awareness among developers so that they will tackle local & not just global issues.
 
-### The goal is to introduce local-specific privacy stories, so [ETHRome](www.ethrome.org) developers can try to solve them.
+### Local-specific privacy stories raised by Italian citizens to be addressed during [ETHRome](www.ethrome.org) Hackathon:
 
-
-Privacy issues raised by Italian citizens to be addressed during [ETHRome](www.ethrome.org) Hackathon:
 
 | Name  | Description | Type of privacy | Threat actors | Negative impact | Link to Proof |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- | 
