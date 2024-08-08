@@ -4,7 +4,7 @@ This project aims to bridge the gap between local privacy violations—such as c
 
 It's part of the "social layer" activity fostering political awareness among developers so that they will tackle local & not just global issues.
 
-### Local-specific privacy stories raised by Italian citizens to be addressed during [ETHRome](www.ethrome.org) Hackathon:
+### Local-specific privacy stories raised by Italians to be addressed during [ETHRome](www.ethrome.org) Hackathon:
 
 
 | Name  | Description | Type of privacy | Threat actors | Negative impact | Link to Proof |
